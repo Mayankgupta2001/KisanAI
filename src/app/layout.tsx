@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 import { Noto_Sans_Devanagari } from 'next/font/google'
 import './globals.css'
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 
 const noto = Noto_Sans_Devanagari({
   subsets: ['devanagari', 'latin'],
@@ -41,6 +41,9 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  verification: {
+    google: '1q8Om_MrxenH3-Di3OiP7ds3Bi7wmVsS8gGb6Og_wgw',
   },
 }
 
