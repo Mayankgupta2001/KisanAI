@@ -9,6 +9,7 @@ const navLinks = [
   { href: '/mausam-salah', icon: '🌦️', label: 'मौसम सलाह' },
   { href: '/sarkari-yojana', icon: '📋', label: 'सरकारी योजना' },
   { href: '/mitti-pariksha', icon: '🌱', label: 'मिट्टी परीक्षा' },
+  { href: '/blog', icon: '📚', label: 'ब्लॉग' },
 ]
 
 export default function Navbar() {
