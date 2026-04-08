@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import MandiClient from './Mandiclient'
+import MandiClient from './MandiClient'
 
 export const metadata: Metadata = {
   title: 'मंडी भाव — आज के फसल के दाम और बेचने की सलाह',
