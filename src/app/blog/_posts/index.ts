@@ -450,6 +450,466 @@ KCC किसानों को कम ब्याज पर लोन दे�
 📞 Helpline: **1800-180-1111** (SBI Kisan)
     `,
   },
+  // Yeh 6 naye articles existing blogPosts array mein ADD karo
+// src/app/blog/_posts/index.ts mein existing array ke end mein paste karo (closing ] se pehle)
+
+  {
+    slug: 'tomato-farming-guide',
+    title: 'टमाटर की खेती — बुवाई से कटाई तक पूरी गाइड 2025',
+    description: 'टमाटर की खेती कैसे करें? उन्नत किस्में, खाद, सिंचाई, रोग प्रबंधन और मंडी में बेचने के टिप्स हिंदी में।',
+    category: 'खेती गाइड',
+    categoryColor: 'bg-red-100 text-red-700',
+    icon: '🍅',
+    date: '9 अप्रैल 2025',
+    readTime: '6 मिनट',
+    content: `
+## टमाटर की खेती — पूरी जानकारी
+
+टमाटर भारत की सबसे ज्यादा उगाई जाने वाली सब्जी है। सही तकनीक से प्रति एकड़ 200-300 क्विंटल तक उपज मिल सकती है।
+
+## उन्नत किस्में
+
+### Hybrid किस्में:
+- Pusa Hybrid-1 — 200+ क्विंटल/एकड़
+- Rashmi — गर्मी सहन करती है
+- Naveen — रोग प्रतिरोधी
+- Arka Rakshak — TLCV virus resistant
+
+### देसी किस्में:
+- Pusa Ruby — छोटे किसानों के लिए
+- S-12 — लंबे समय तक storage
+
+## बुवाई का सही समय
+
+| मौसम | बुवाई |
+|------|-------|
+| रबी | अक्टूबर-नवंबर |
+| खरीफ | जून-जुलाई |
+| जायद | जनवरी-फरवरी |
+
+## नर्सरी तैयार करना
+
+1. बीज उपचार — Thiram 2g/kg बीज
+2. नर्सरी bed तैयार करें — 3x1 मीटर
+3. बीज बोएं — 1 cm गहरा
+4. 25-30 दिन में पौध तैयार
+
+## खाद कार्यक्रम (प्रति एकड़)
+
+### रोपाई के समय:
+- गोबर खाद: 4-5 टन
+- DAP: 50 kg
+- MOP: 30 kg
+
+### रोपाई के 30 दिन बाद:
+- यूरिया: 25 kg
+
+### फूल आने पर:
+- यूरिया: 20 kg
+- MOP: 20 kg
+
+## प्रमुख रोग और उपाय
+
+### Early Blight:
+- पत्तियों पर भूरे धब्बे
+- उपाय: Mancozeb 2g/लीटर
+
+### Late Blight:
+- पत्तियां और फल सड़ते हैं
+- उपाय: Metalaxyl 2g/लीटर
+
+### TLCV (Leaf Curl Virus):
+- पत्तियां मुड़ जाती हैं
+- उपाय: Imidacloprid से whitefly control
+
+## MSP और मंडी भाव
+
+टमाटर का कोई MSP नहीं — बाजार भाव पर निर्भर।
+- eNAM पर बेचें — बेहतर दाम मिलेंगे
+- FPO से जुड़ें — collective selling
+
+📞 किसान कॉल सेंटर: 1800-180-1551
+    `,
+  },
+  {
+    slug: 'organic-farming-kaise-kare',
+    title: 'जैविक खेती कैसे शुरू करें — Organic Farming Guide 2025',
+    description: 'जैविक खेती क्या है, कैसे शुरू करें, certification कैसे मिलेगा और बाजार कहाँ मिलेगा। Organic farming की पूरी जानकारी हिंदी में।',
+    category: 'जैविक खेती',
+    categoryColor: 'bg-green-100 text-green-700',
+    icon: '🌱',
+    date: '9 अप्रैल 2025',
+    readTime: '7 मिनट',
+    content: `
+## जैविक खेती क्यों करें?
+
+जैविक खेती में chemical का उपयोग नहीं होता। Organic products की मांग बढ़ रही है — कीमत भी 2-3 गुना ज्यादा मिलती है।
+
+## जैविक खेती शुरू करने के चरण
+
+### Step 1: मिट्टी तैयार करें
+- Chemical खाद धीरे-धीरे बंद करें
+- गोबर खाद और compost डालें
+- 2-3 साल में मिट्टी organic हो जाती है
+
+### Step 2: जैविक खाद बनाएं
+
+**वर्मीकम्पोस्ट:**
+- केंचुए से बनती है
+- 45-60 दिन में तैयार
+- 3-4 टन/एकड़ डालें
+
+**गोबर खाद:**
+- 3-4 महीने में तैयार
+- 5 टन/एकड़
+
+**जीवामृत:**
+- 10 लीटर गोमूत्र
+- 10 kg गोबर
+- 1 kg बेसन
+- 200 लीटर पानी में मिलाएं
+- 7 दिन में तैयार
+
+### Step 3: जैविक कीटनाशक
+
+**नीम आधारित:**
+- नीम तेल 3ml/लीटर पानी
+- नीम की पत्तियों का काढ़ा
+
+**Dashaparni Ark:**
+- 10 तरह की पत्तियों से बनता है
+- सभी कीटों पर असरदार
+
+## Organic Certification कैसे लें?
+
+### NPOP Certification:
+- National Programme for Organic Production
+- 3 साल का conversion period
+- Accredited agency से inspection
+- खर्च: ₹5,000-15,000/साल
+
+### PGS-India (सस्ता विकल्प):
+- Participatory Guarantee System
+- Group certification — कम खर्च
+- छोटे किसानों के लिए best
+- Free registration: pgsindia.net
+
+## जैविक उत्पाद कहाँ बेचें?
+
+- ✅ Organic मंडी — बड़े शहरों में
+- ✅ Online — Amazon, BigBasket, Jiomart
+- ✅ FPO के through
+- ✅ Hotels और restaurants — direct supply
+- ✅ Farmers market
+
+## सरकारी सहायता
+
+- Paramparagat Krishi Vikas Yojana (PKVY)
+- ₹50,000/हेक्टेयर 3 साल के लिए
+- Cluster farming को प्रोत्साहन
+
+📞 Organic Farming Helpline: 1800-180-1551
+    `,
+  },
+  {
+    slug: 'kisan-drone-subsidy',
+    title: 'किसान ड्रोन योजना — 50% सब्सिडी पर ड्रोन कैसे लें?',
+    description: 'सरकार ड्रोन पर 50% सब्सिडी दे रही है। कौन ले सकता है, कैसे apply करें, कितना खर्च होगा — पूरी जानकारी हिंदी में।',
+    category: 'सरकारी योजना',
+    categoryColor: 'bg-blue-100 text-blue-700',
+    icon: '🚁',
+    date: '9 अप्रैल 2025',
+    readTime: '5 मिनट',
+    content: `
+## किसान ड्रोन योजना 2025
+
+सरकार ने Agriculture Drone को बढ़ावा देने के लिए भारी subsidy दी है।
+
+## सब्सिडी कितनी मिलती है?
+
+| वर्ग | सब्सिडी |
+|------|---------|
+| SC/ST किसान | 50% या ₹5 लाख |
+| छोटे/सीमांत किसान | 40% या ₹4 लाख |
+| अन्य किसान | 40% या ₹4 लाख |
+| FPO/Cooperatives | 75% |
+| Agricultural graduates | 50% |
+
+## ड्रोन से क्या फायदा?
+
+- ✅ कीटनाशक spray 10 गुना तेज
+- ✅ खाद का uniform छिड़काव
+- ✅ फसल की monitoring
+- ✅ मजदूरी का खर्च कम
+- ✅ समय की बचत
+
+## आवेदन कैसे करें?
+
+1. agrimachinery.nic.in पर जाएं
+2. किसान registration करें
+3. Drone category select करें
+4. Documents upload करें
+5. Subsidy approval मिलने पर खरीदें
+
+## जरूरी दस्तावेज
+
+- ✅ आधार कार्ड
+- ✅ जमीन के कागज
+- ✅ बैंक खाता
+- ✅ Category certificate (अगर हो)
+
+## Drone Operator Training
+
+- DGCA approved training जरूरी
+- 3-5 दिन की training
+- Certificate मिलता है
+- Training centers: krishi vigyan kendras
+
+## किराये पर भी मिलता है
+
+ड्रोन खरीदना महंगा है तो:
+- CHC (Custom Hiring Centre) से किराये पर लें
+- ₹500-1000/एकड़ spray cost
+- FPO drone service भी देते हैं
+
+📞 Drone Subsidy Helpline: 1800-180-1551
+    `,
+  },
+  {
+    slug: 'fasal-bima-claim-kaise-kare',
+    title: 'फसल बीमा क्लेम कैसे करें — PMFBY Claim Process 2025',
+    description: 'फसल खराब हो गई? PMFBY का claim कैसे करें, कितने दिन में मिलेगा पैसा, क्या documents चाहिए — पूरी जानकारी हिंदी में।',
+    category: 'सरकारी योजना',
+    categoryColor: 'bg-blue-100 text-blue-700',
+    icon: '📋',
+    date: '9 अप्रैल 2025',
+    readTime: '5 मिनट',
+    content: `
+## PMFBY Claim — पूरी जानकारी
+
+प्रधानमंत्री फसल बीमा योजना में claim करना आसान है — बस सही समय पर सूचना दें।
+
+## फसल खराब होने पर क्या करें?
+
+### 72 घंटे के अंदर सूचना दें:
+
+1. Crop Insurance App पर
+2. Insurance company को call करें
+3. Bank को inform करें
+4. Agriculture department को बताएं
+
+**देर करने पर claim reject हो सकता है!**
+
+## Claim कैसे करें?
+
+### Online:
+1. pmfby.gov.in पर जाएं
+2. Login करें
+3. Crop Loss Intimation भरें
+4. Photos upload करें
+5. Submit करें
+
+### Offline:
+1. नजदीकी bank जाएं जहाँ KCC है
+2. Crop Loss Form भरें
+3. Documents जमा करें
+
+## जरूरी दस्तावेज
+
+- ✅ आधार कार्ड
+- ✅ Policy number
+- ✅ खराब फसल की photos
+- ✅ खसरा/खतौनी
+- ✅ बैंक passbook
+
+## Survey Process
+
+- Insurance company surveyor भेजती है
+- 48-72 घंटे में survey होता है
+- Satellite data भी use होता है
+- Survey report के बाद claim process होता है
+
+## पैसा कब मिलेगा?
+
+- Survey के बाद 15-20 दिन में
+- सीधे bank account में
+- SMS notification मिलता है
+
+## Claim reject हो तो?
+
+1. Insurance company को लिखित complaint दें
+2. Agriculture department से मदद लें
+3. District Grievance Committee में जाएं
+4. IRDAI में complaint करें: 1800-4254-732
+
+## Premium कितना लगता है?
+
+| फसल | Premium |
+|-----|---------|
+| खरीफ | 2% |
+| रबी | 1.5% |
+| Commercial/Horticulture | 5% |
+
+📞 PMFBY Helpline: 14447
+    `,
+  },
+  {
+    slug: 'mitti-ph-sudharne-ke-upay',
+    title: 'मिट्टी का PH कैसे ठीक करें — Acidic और Alkaline मिट्टी का उपाय',
+    description: 'मिट्टी का PH बहुत कम या ज्यादा है? चूना, जिप्सम, सल्फर से PH कैसे ठीक करें। Soil Health Card की जानकारी हिंदी में।',
+    category: 'मिट्टी परीक्षा',
+    categoryColor: 'bg-orange-100 text-orange-700',
+    icon: '🌍',
+    date: '9 अप्रैल 2025',
+    readTime: '5 मिनट',
+    content: `
+## मिट्टी का PH क्यों जरूरी है?
+
+PH 6.5-7.5 के बीच हो तो फसल सबसे अच्छी होती है। इससे कम या ज्यादा होने पर पोषक तत्व मिट्टी में बंध जाते हैं।
+
+## PH कैसे जाँचें?
+
+### घर पर:
+- Soil testing kit — ₹200-500 में मिलती है
+- Litmus paper से भी चेक कर सकते हैं
+
+### Lab में:
+- KVK (कृषि विज्ञान केंद्र) में मुफ़्त
+- Soil Health Card से पता चलता है
+
+## Acidic मिट्टी (PH < 6.5) को ठीक करें
+
+### चूना (Lime) डालें:
+
+| PH | चूना (kg/एकड़) |
+|----|----------------|
+| 5.5-6.0 | 200-300 kg |
+| 5.0-5.5 | 300-400 kg |
+| 4.5-5.0 | 400-500 kg |
+
+- बुवाई से 1 महीने पहले डालें
+- जुताई करके मिट्टी में मिलाएं
+- हर 2-3 साल में दोबारा करें
+
+### Wood Ash (राख):
+- 5-10 क्विंटल/एकड़
+- Calcium और Potassium भी मिलता है
+- Free source — खेत में ही जलाएं
+
+## Alkaline मिट्टी (PH > 7.5) को ठीक करें
+
+### जिप्सम:
+- 4-8 क्विंटल/एकड़
+- Sodium को calcium से replace करता है
+- Usar जमीन के लिए best
+
+### सल्फर:
+- 4-6 kg/एकड़
+- Bacteria sulphur को sulphuric acid में बदलते हैं
+- PH धीरे-धीरे कम होता है
+
+### Organic Matter बढ़ाएं:
+- गोबर खाद 5 टन/एकड़
+- हरी खाद — Dhaincha या Sunhemp
+- pH naturally balance होता है
+
+## Soil Health Card कैसे बनवाएं?
+
+1. नजदीकी KVK जाएं
+2. मिट्टी का नमूना लें — 6 इंच गहरा
+3. Lab में जमा करें
+4. 15-20 दिन में card मिलता है
+5. Card पर exact recommendation होती है
+
+## नमूना सही तरीके से कैसे लें?
+
+- खेत के 5-6 जगह से मिट्टी लें
+- ऊपर की 1 inch मिट्टी हटाकर लें
+- सब मिलाकर 500g नमूना बनाएं
+
+📞 Soil Testing Helpline: 1800-180-1551
+    `,
+  },
+  {
+    slug: 'aalu-ki-kheti-guide',
+    title: 'आलू की खेती — बुवाई, खाद, रोग और MSP की पूरी जानकारी',
+    description: 'आलू की खेती कैसे करें? उन्नत बीज, बुवाई का समय, खाद प्रबंधन, झुलसा रोग का उपाय और मंडी भाव — सब हिंदी में।',
+    category: 'खेती गाइड',
+    categoryColor: 'bg-yellow-100 text-yellow-700',
+    icon: '🥔',
+    date: '9 अप्रैल 2025',
+    readTime: '6 मिनट',
+    content: `
+## आलू की खेती — पूरी जानकारी
+
+आलू भारत की सबसे महत्वपूर्ण सब्जी फसल है। UP, Bihar, West Bengal और Punjab में बड़े पैमाने पर उगाई जाती है।
+
+## उन्नत किस्में
+
+| किस्म | पकने का समय | उपज |
+|-------|-------------|-----|
+| Kufri Jyoti | 80-90 दिन | 200-250 क्विंटल/एकड़ |
+| Kufri Pukhraj | 70-80 दिन | 250-300 क्विंटल/एकड़ |
+| Kufri Badshah | 90-100 दिन | 300+ क्विंटल/एकड़ |
+| Kufri Sindhuri | 120 दिन | लंबे storage के लिए |
+
+## बुवाई का सही समय
+
+- उत्तर भारत: अक्टूबर-नवंबर
+- पहाड़ी क्षेत्र: मार्च-अप्रैल
+- दक्षिण भारत: नवंबर-दिसंबर
+
+## बीज की तैयारी
+
+- Certified seed लें — 8-10 क्विंटल/एकड़
+- बीज उपचार: Mancozeb 3g/लीटर पानी
+- 25-30g वाले टुकड़े काटें
+- काटने के बाद Ash लगाएं — सड़न रोकने के लिए
+
+## खाद कार्यक्रम (प्रति एकड़)
+
+### बुवाई के समय:
+- गोबर खाद: 5-6 टन
+- DAP: 75 kg
+- MOP: 50 kg
+- Zinc Sulphate: 10 kg
+
+### 30 दिन बाद:
+- यूरिया: 50 kg (earthing up के साथ)
+
+## सिंचाई
+
+- पहली: बुवाई के 20-25 दिन बाद
+- दूसरी: 40-45 दिन
+- तीसरी: 60-65 दिन
+- कटाई से 15 दिन पहले बंद करें
+
+## झुलसा रोग (Blight) — सबसे खतरनाक
+
+### Early Blight:
+- पत्तियों पर भूरे धब्बे
+- उपाय: Mancozeb 2g/लीटर — 10 दिन पर spray
+
+### Late Blight:
+- पत्तियां और कंद दोनों सड़ते हैं
+- उपाय: Metalaxyl + Mancozeb 2.5g/लीटर
+- बचाव: Resistant किस्में लगाएं
+
+## कटाई और भंडारण
+
+- पत्तियां पीली होने पर काटें
+- 10-15 दिन मिट्टी में छोड़ें — skin set हो
+- Cold storage में रखें — 8 महीने तक
+
+## मंडी भाव और MSP
+
+आलू का कोई MSP नहीं है।
+- बाजार भाव: ₹500-2000/क्विंटल (season पर निर्भर)
+- Cold storage में रखकर off-season बेचें — ज्यादा दाम
+
+📞 किसान कॉल सेंटर: 1800-180-1551
+    `,
+  },
 ]
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
